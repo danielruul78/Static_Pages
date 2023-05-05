@@ -1,2 +1,1 @@
-# Static_Pages
-Static_Pages
+Hello Universe
