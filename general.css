@@ -4,11 +4,7 @@
 
 body {
 	background-color: #FFF;
-<<<<<<< HEAD
-	background-image: url(/index.php?file=bcms/templates/gcwd./images/bg.jpg);
-=======
-	background-image: url(/images/bg.jpg);
->>>>>>> 96009c13a2c21e9493bde79739eb22b95b4e3f96
+	background-image: url(./images/bg.jpg);
 	background-repeat: repeat-x;
 	margin-left: 0px;
 	margin-top: 0px;
@@ -39,11 +35,7 @@ a:hover{
 
 #CompleteHeader{
 	height:253px;
-<<<<<<< HEAD
-	background-image:url(/index.php?file=bcms/templates/gcwd./images/header.jpg);
-=======
-	background-image:url(/images/header.jpg);
->>>>>>> 96009c13a2c21e9493bde79739eb22b95b4e3f96
+	background-image:url(./images/header.jpg);
 	
 }
 #MainMenu{
@@ -69,11 +61,7 @@ a:hover{
 }
 
 #BodyContent{
-<<<<<<< HEAD
-	background-image:url(/index.php?file=bcms/templates/gcwd./images/main-body-shadow.jpg);
-=======
-	background-image:url(/images/main-body-shadow.jpg);
->>>>>>> 96009c13a2c21e9493bde79739eb22b95b4e3f96
+	background-image:url(./images/main-body-shadow.jpg);
 	background-repeat:no-repeat;
 	width:970px;
 	padding:15px;
@@ -94,20 +82,12 @@ a:hover{
 #LeftBodyContentHeader{
 	width:240px;
 	height:32px;
-<<<<<<< HEAD
-	background-image:url(/index.php?file=bcms/templates/gcwd./images/news-header.jpg);
-=======
-	background-image:url(/images/news-header.jpg);
->>>>>>> 96009c13a2c21e9493bde79739eb22b95b4e3f96
+	background-image:url(./images/news-header.jpg);
 	
 }
 #LeftBodyContentBody{
 	width:230px;
-<<<<<<< HEAD
-	background-image:url(/index.php?file=bcms/templates/gcwd./images/news-body-bg.jpg);
-=======
-	background-image:url(/images/news-body-bg.jpg);
->>>>>>> 96009c13a2c21e9493bde79739eb22b95b4e3f96
+	background-image:url(./images/news-body-bg.jpg);
 	padding:5px;
 	font-family:Arial, Helvetica, sans-serif;
 	color:#6f95b6;
@@ -117,11 +97,7 @@ a:hover{
 #LeftBodyContentFooter{
 	width:240px;
 	height:13px;
-<<<<<<< HEAD
-	background-image:url(/index.php?file=bcms/templates/gcwd./images/news-footer.jpg);
-=======
-	background-image:url(/images/news-footer.jpg);
->>>>>>> 96009c13a2c21e9493bde79739eb22b95b4e3f96
+	background-image:url(./images/news-footer.jpg);
 	
 }
 #RightBodyContent{
@@ -134,11 +110,7 @@ a:hover{
 	margin-right:4px;
 }
 #FooterHolder{
-<<<<<<< HEAD
-	background-image:url(/index.php?file=bcms/templates/gcwd./images/footer-bg.jpg);
-=======
-	background-image:url(/images/footer-bg.jpg);
->>>>>>> 96009c13a2c21e9493bde79739eb22b95b4e3f96
+	background-image:url(./images/footer-bg.jpg);
 	background-repeat:no-repeat;
 	width:994px;
 	height:84px;
